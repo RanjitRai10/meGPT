@@ -1,2 +1,2 @@
 # meGPT
-An Automated AI ChatBot Application similar to ChatGpt , which gives the answer to a question using openAI API
+An Automated AI ChatBot Application similar to ChatGpt , which gives an Ai generated response to user query using openAI API .
